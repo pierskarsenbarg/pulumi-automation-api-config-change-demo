@@ -1,0 +1,16 @@
+{
+  "name": "auto-api-change-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./bin/index.js",
+  "scripts": {
+    "start": "tsc && node ./bin/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pulumi/pulumi": "^3.16.0",
+    "@types/node": "^16.11.6"
+  }
+}
